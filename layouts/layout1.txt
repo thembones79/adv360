@@ -20,6 +20,7 @@
 [down]>[sumo]
 [rwin]>[4mou]
 [rctr]>[mmou]
+[bspc]>[spc]
 [pgup]>[5mou]
 [ent]>[lmou]
 [spc]>[rmou]
